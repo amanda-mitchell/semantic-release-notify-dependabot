@@ -10,7 +10,10 @@ function readFileAsync(path, options) {
   });
 }
 
-async function getDependabotOptions(pluginConfig, { env, nextRelease, cwd }) {
+async function getDependabotOptions(
+  pluginConfig,
+  { env, nextRelease, cwd, logger }
+) {
   const packageManager = pluginConfig.packageManager || 'npm_and_yarn';
   let packageName = pluginConfig.packageName;
   if (!packageName && packageManager === 'npm_and_yarn') {
