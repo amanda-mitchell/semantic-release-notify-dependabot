@@ -79,8 +79,8 @@ module.exports = {
     );
 
     if (!response.ok) {
-      logger.error('Unexpected API response');
-      logger.error(await response.json());
+      context.logger.error('Unexpected API response');
+      context.logger.error(await response.json());
       throw new Error(`Unexpected response code ${response.status}`);
     }
   },
