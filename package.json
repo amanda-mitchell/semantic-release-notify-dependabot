@@ -22,7 +22,7 @@
   "devDependencies": {
     "@amanda-mitchell/semantic-release-npm-multiple": "^2.1.1",
     "@commitlint/config-conventional": "^12.0.0",
-    "commitlint": "^11.0.0",
+    "commitlint": "^12.0.1",
     "husky": "^5.0.9",
     "lint-staged": "^10.5.1",
     "prettier": "^2.1.2",
