@@ -3,9 +3,9 @@
 
 
 "@amanda-mitchell/semantic-release-npm-multiple@^2.1.1":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@amanda-mitchell/semantic-release-npm-multiple/-/semantic-release-npm-multiple-2.7.0.tgz#24890096504aa5661d87d12d8893f47a2115d9c8"
-  integrity sha512-r8NuA5DZ5F6TYl50GKQgX5vvUvqbOCX1CBSbwBtfUAYhtmf6Rtqm8tF39E5j+f0tr3G+9li90P4EilOcZKT7cQ==
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/@amanda-mitchell/semantic-release-npm-multiple/-/semantic-release-npm-multiple-2.8.0.tgz#c616ca36b758012608d692be680f63ce7c43fed7"
+  integrity sha512-w7BNYWu1KFofgVPFR0YvZqiFN0C5WiqtEWcY9CPZwnkgfp/cZX4/G/yTjlOyJsaVd88/tP5r8tAMI/rIDfi4AA==
   dependencies:
     "@semantic-release/npm" "^7.0.6"
     require-reload "^0.2.2"
