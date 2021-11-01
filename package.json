@@ -21,7 +21,7 @@
   ],
   "devDependencies": {
     "@amanda-mitchell/semantic-release-npm-multiple": "^2.1.1",
-    "@commitlint/config-conventional": "^13.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
     "commitlint": "^14.1.0",
     "husky": "4.x",
     "lint-staged": "^11.0.1",
