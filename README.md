@@ -1,3 +1,7 @@
+# Project shutdown notice
+
+This project is no longer necessary, as Dependabot no longer supports live updates and there is no way to notify it of package updates.
+
 # @amanda-mitchell/semantic-release-notify-dependabot
 
 This is a plugin for [Semantic Release](https://semantic-release.gitbook.io/semantic-release/) that notifies Dependabot of package updates in private registries.
